@@ -1,0 +1,64 @@
+1. Estructura de Control if/else:
+
+La estructura if/else te permite ejecutar un bloque de código si se cumple una condición, y otro bloque de código si la condición no se cumple.
+
+
+
+let edad = 18;
+
+if (edad >= 18) {
+    console.log("Eres mayor de edad");
+} else {
+    console.log("Eres menor de edad");
+}
+
+2. Estructura de Control switch:
+
+La estructura switch te permite ejecutar diferentes bloques de código según el valor de una expresión.
+
+
+
+let dia = "Lunes";
+
+switch (dia) {
+    case "Lunes":
+        console.log("Hoy es lunes");
+        break;
+    case "Martes":
+        console.log("Hoy es martes");
+        break;
+    default:
+        console.log("Hoy no es ni lunes ni martes");
+}
+
+3. Bucles (Loops):
+
+Los bucles te permiten ejecutar un bloque de código repetidamente mientras se cumpla una condición.
+
+    Bucle for: Se utiliza cuando conoces la cantidad de iteraciones que se van a realizar.
+
+
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+    Bucle while: Se utiliza cuando no sabes cuántas veces se va a repetir el código, pero se ejecuta mientras se cumpla una condición.
+
+
+
+let contador = 0;
+while (contador < 5) {
+    console.log(contador);
+    contador++;
+}
+
+    Bucle do...while: Similar al bucle while, pero garantiza que el bloque de código se ejecutará al menos una vez, incluso si la condición inicialmente es falsa.
+
+
+
+let x = 0;
+do {
+    console.log(x);
+    x++;
+} while (x < 5);

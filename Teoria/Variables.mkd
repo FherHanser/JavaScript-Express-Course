@@ -1,0 +1,22 @@
+# Variables en JavaScript:
+Declaración de Variables:
+
+En JavaScript, puedes declarar variables utilizando las palabras clave var, let y const.
+
+# var: Era la forma tradicional de declarar variables en JavaScript, pero tiene un ámbito de función. Esto significa que la variable es accesible dentro de la función en la que se declara, independientemente de su ubicación en el bloque de código.
+
+# let: Introducida en ECMAScript 6 (ES6), tiene un ámbito de bloque. Esto significa que la variable solo es accesible dentro del bloque en el que se declara, incluyendo cualquier bloque anidado.
+
+# const: También introducida en ES6, se utiliza para declarar variables cuyo valor no cambiará a lo largo del tiempo. Al igual que let, tiene un ámbito de bloque.
+
+
+Asignación de Valores:
+
+Puedes asignar valores a variables utilizando el operador de asignación =. Por ejemplo:
+
+let nombre = "Juan";
+
+
+# Ámbito de las Variables:
+
+El ámbito de una variable se refiere a la parte del código donde la variable es accesible. En JavaScript, las variables declaradas con var tienen un ámbito de función, mientras que las variables declaradas con let y const tienen un ámbito de bloque.

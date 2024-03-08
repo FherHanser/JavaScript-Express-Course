@@ -1,0 +1,36 @@
+Operadores en JavaScript:
+1. Operadores Aritméticos:
+
+    +: Suma dos valores.
+    -: Resta el segundo valor del primero.
+    *: Multiplica dos valores.
+    /: Divide el primer valor por el segundo.
+    %: Devuelve el resto de la división del primer valor por el segundo (operador módulo).
+    ++: Incrementa el valor de una variable en 1.
+    --: Decrementa el valor de una variable en 1.
+
+2. Operadores de Comparación:
+
+    ==: Igualdad (compara los valores).
+    ===: Igualdad estricta (compara los valores y los tipos de datos).
+    !=: No igualdad.
+    !==: No igualdad estricta.
+    >: Mayor que.
+    <: Menor que.
+    >=: Mayor o igual que.
+    <=: Menor o igual que.
+
+3. Operadores Lógicos:
+
+    &&: AND lógico (devuelve true si ambos operandos son true).
+    ||: OR lógico (devuelve true si al menos uno de los operandos es true).
+    !: NOT lógico (devuelve true si el operando es false y viceversa).
+
+4. Operadores de Asignación:
+
+    =: Asigna un valor a una variable.
+    +=, -=, *=, /=, %=: Operadores de asignación compuesta.
+
+5. Operador Ternario (Operador Condicional):
+
+    condición ? expresión1 : expresión2: Si la condición es verdadera, devuelve expresión1; de lo contrario, devuelve expresión2.

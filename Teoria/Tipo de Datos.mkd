@@ -1,0 +1,33 @@
+
+# Conceptos Básicos de JavaScript:
+
+1. Tipos de Datos:
+
+JavaScript tiene varios tipos de datos, incluyendo:
+
+# Número: 
+    Números enteros y de punto flotante.
+
+# Cadena: 
+    Secuencia de caracteres encerrados entre comillas simples o dobles.
+
+# Booleano: 
+    Representa un valor verdadero o falso.
+
+# Objeto: 
+    Una colección de propiedades, donde cada propiedad es una asociación clave-valor.
+
+# Arreglo: 
+    Una colección ordenada de elementos.
+
+ # Undefined: 
+    Indica que una variable no tiene un valor asignado.
+
+# Null: 
+    Representa la ausencia intencional de cualquier valor o referencia a un objeto.
+
+# NaN: 
+    Representa "Not-a-Number", un valor especial que resulta de una operación no válida.
+    
+# Symbol: 
+    Un tipo de dato primitivo introducido en ECMAScript 6, que representa un identificador único.
